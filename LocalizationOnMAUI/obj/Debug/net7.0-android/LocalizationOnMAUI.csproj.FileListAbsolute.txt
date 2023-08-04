@@ -976,3 +976,9 @@ D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.
 D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\lp\151\jl\files.cache
 D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\lp\153\jl\files.cache
 D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\lp\155\jl\files.cache
+D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Configuration.Binder.dll
+D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Configuration.Json.dll
+D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.FileProviders.Physical.dll
+D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.FileSystemGlobbing.dll
