@@ -1,0 +1,1 @@
+D:\AltDes\TestBindingsMAUI\LocalizationOnMAUI\LocalizationOnMAUI\LocalizationOnMAUI.csproj;x64
